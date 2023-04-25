@@ -1,1 +1,2 @@
-# geometriaPlanaeEspacial.py
+# Geometria Plana e Espacial em Python!
+(em construção!!!)
